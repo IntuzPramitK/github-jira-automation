@@ -1,0 +1,1 @@
+This repository is created in order to test the automation workflow for the JIRA and Github
