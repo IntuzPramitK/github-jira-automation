@@ -27,7 +27,7 @@ function App() {
             </div>
             
             <div className="feature">
-              <h3>Our Values</h3>32sdsdsdssss
+              <h3>Our Values</h3>32sdsdsdsssssss
               <p>Innovation, s, and  in wssw S ss</p>
             </div>ss
           </div>
