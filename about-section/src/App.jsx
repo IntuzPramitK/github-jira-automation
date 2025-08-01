@@ -28,7 +28,7 @@ function App() {
             
             <div className="feature">
               <h3>Our Values</h3>32sdsdsd
-              <p>Innovation, Integrity, and ss in wssw ss assssd</p>
+              <p>Innovation, Integrityss, and ss in wssw ss assssd</p>
             </div>2333
           </div>
         </section>
