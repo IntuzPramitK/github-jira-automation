@@ -29,7 +29,7 @@ function App() {
             <div className="feature">
               <h3>Our Values</h3>32sd
               <p>Innovation, Integrity, and Excellence in everything 2 123</p>
-            </div>2
+            </div>2333
           </div>
         </section>
       </main>
