@@ -28,7 +28,7 @@ function App() {
             
             <div className="feature">
               <h3>Our Values</h3>
-              <p>Innovation, Integrity, and Excellence in everything we tes544t6314</p>
+              <p>Innovation, Integrity, and Excellence in everything we </p>
             </div>
           </div>
         </section>
