@@ -26,7 +26,7 @@ function App() {
               <p>To be the leading force in digital traddnsformsation.</p>
             </div>sss
             
-            <div className="feature">
+            <div className="feature">d
               <h3>Our Values</h3>
               <p>Innovation, s, and  in wssw S ssss</p>
             </div>
