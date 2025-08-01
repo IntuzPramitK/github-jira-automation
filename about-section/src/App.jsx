@@ -23,7 +23,7 @@ function App() {
             
             <div className="feature">
               <h3>Our Vision</h3>
-              <p>To be the leading force in digital transformsation.</p>
+              <p>To be the leading force in digital traddnsformsation.</p>
             </div>ss
             
             <div className="feature">
