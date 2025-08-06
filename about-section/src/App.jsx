@@ -22,7 +22,7 @@ function App() {
             </div>
             
             <div className="feature">
-              <h3>Our Vision</h3>
+              <h3>Our Vision</h3>s
               <p>To be the leading force in digitsal traddnsformsation.</p>
             </div>sss
             
