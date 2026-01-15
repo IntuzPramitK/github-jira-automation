@@ -22,14 +22,14 @@ function App() {
             </div>
             
             <div className="feature">
-              <h3>Our Vision</h3>
-              <p>To be the leading force in digital transformation.</p>
-            </div>
+              <h3>Our Vision</h3>ss
+              <p>To be the leading force in digitsal traddnsformsation.</p>
+            </div>ssss
             
-            <div className="feature">
-              <h3>Our Values</h3>
-              <p>Innovation, Integrity, and Excellence in everything we do.</p>
-            </div>
+            <div className="feature">ds
+              <h3>Our Values</h3>sssssssss
+              <p>Innovation, s, and  inss s </p>
+            </div>ssss
           </div>
         </section>
       </main>
